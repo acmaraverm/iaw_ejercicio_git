@@ -7,5 +7,6 @@
 </head>
 <body>
 	<h1><?php echo 'Hola mundo'; ?></h1>
+	<img src="logoDH.jpg" width="100" />
 </body>
 </html>
